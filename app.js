@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000/api/notas";
+const API_URL = "https://notas-backend-vo4q.onrender.com/api/notas";
 const contenedorNotas = document.getElementById('contenedorNotas');
 const notaForm = document.getElementById('notaForm');
 const notaIdInput = document.getElementById('notaId');
